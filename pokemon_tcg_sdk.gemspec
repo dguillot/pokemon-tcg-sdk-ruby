@@ -27,7 +27,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "codeclimate-test-reporter", "~> 0.6"
 
   spec.add_dependency "roar", "~> 1.0"
-  spec.add_dependency "json", "~> 2.0"
+  spec.add_dependency "json", "~> 1.7"
   spec.add_dependency "multi_json", "~> 1.12"
   spec.add_dependency "multi_xml", "~> 0.5"
   spec.add_dependency "faraday_middleware", "~> 0.10"
